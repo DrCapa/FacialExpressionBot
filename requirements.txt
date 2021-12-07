@@ -1,0 +1,8 @@
+requests
+telegram
+numpy
+python-telegram-bot
+opencv-python--headless
+tensorflow-cpu
+keras
+urllib3
